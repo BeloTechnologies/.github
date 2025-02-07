@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to Belo Technologies!
 
-![Belo Technologies Banner](../assets/belo_technologies_logo_transparent_large.png)
+![Belo Technologies Banner](../assets/belo_technologies_logo_transparent_small.png)
 
 <!-- Replace the placeholder URL above with your actual banner image -->
 
